@@ -109,5 +109,5 @@ void loop() {
 Humanoid_2023/
 │── Humanoid_v2_1.ino   # Arduino code implementing IK and servo control
 │── README.md           # Project documentation
-│── /media              # Images or diagrams (optional)
+│── /media              # Images
 ```
